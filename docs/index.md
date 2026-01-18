@@ -1,23 +1,18 @@
-# eLearnGuide – eLearnAI Documentation
+# eLearnGuide Documentation Portal
 
-Welcome to the eLearnAI documentation site.  
-This site organizes all eLearning system guides, manuals, SOPs, and reference materials stored in this GitHub repository.
-
-Please select a section below to access the documents.
+Welcome to the eLearnGuide documentation site. This portal provides access to all system guides, SOPs, manuals, and reference materials stored in the eLearnAI knowledge base.
 
 ---
 
-## 📂 eLearnAI (Main Folder)
-This folder contains all subdirectories, guides, PDFs, and Word documents for the eLearning AI system.
+## 📂 Main Documentation Area
+All systems, modules, and features are located inside the eLearnAI folder.
 
 👉 [Open eLearnAI Folder](./eLearnAI/)
-
 ---
 
-## 📘 How to Use This Site
-- Click a folder to browse its PDF or Word documents.
-- All files and subfolders inside **eLearnAI** are automatically included.
-- When you update, add, or remove files, this site updates automatically after publish.
+## ℹ️ About This Site
+- This site is automatically generated using GitHub Pages.
+- Each subfolder includes a `README.md` that describes its contents.
 
 ---
 
